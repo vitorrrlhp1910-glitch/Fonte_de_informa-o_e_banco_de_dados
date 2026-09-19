@@ -1,6 +1,8 @@
 # Fonte_de_informacao_e_banco_de_dados
 Atividades desenvolvidas durante o primeiro semestre da faculdade de GPI Fatec
+
 ## analise de dados aberto por meio de dashboard
+
 foram coletados dados relativos de empresas multimodas certificadas pela ANTT. Para construção do dashboard foram usado linguagem DAX e construção de visualizações
 Analise feitas:
 1) Quantas OTM`S existem em cada cidade do Brasil ?
