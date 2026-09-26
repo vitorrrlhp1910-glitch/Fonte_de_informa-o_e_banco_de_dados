@@ -57,10 +57,20 @@ Analise feitas:
    
    <img width="679" height="572" alt="image" src="https://github.com/user-attachments/assets/bdac75f0-de5d-40c0-a4db-e9688ec0ee19" />
 
-
-2) <img width="1297" height="712" alt="image" src="https://github.com/user-attachments/assets/9fa12a63-81e1-4133-806a-36e2ffd83423" />
-
-
-   
 Interagindo com o mapa foi observado que a cidade de Manaus (87) possui mais empresas certificadas que São José dos Campos (4)
 por dedução  analisando o resultado deve-se a geografia ao polo industrial e infraestrutura modal da cidade 
+
+2) Dados abertos: Power BI
+   <img width="1295" height="701" alt="image" src="https://github.com/user-attachments/assets/bef3904b-4fdf-4a8b-a43b-d44731da0fc8" />
+   PERGUNTAS
+   1- Qual estado possui a maior quantidade de empresas de transporte multimodal ?
+   RESPOSTA: São Paulo (SP) com 569 empresas
+   2-Qual Estado possui a menor quantidade de transporte multimodal?
+   RESPOSTA: Amapá (AP) com 1 empresa
+   3-Qual ano possui a maior quantidade de registro em vigência?
+   RESPOSTA:2024, com 53 registro
+   4-Qual ano possui a menor quantidade de registro em vigência?
+   RESPOSTA:2018, com 8 registro
+   5-Quantas empresas de transporte multimodal existem na base de Dados?
+   RESPOSTA: A base possui 1.382 empresas/registros
+
