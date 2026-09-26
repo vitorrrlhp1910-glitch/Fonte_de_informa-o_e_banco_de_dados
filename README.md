@@ -3,9 +3,53 @@ Atividades desenvolvidas durante o primeiro semestre da faculdade de GPI Fatec
 
 Índice 
 * [analise de dados aberto por meio de dashboard] (#analise-de-dados-aberto-por-meio-de-dashboard)
-* 
+* [Analise](#Analise)
 https://github.com/vitorrrlhp1910-glitch/Fonte_de_informa-o_e_banco_de_dados/blob/main/empresasmultimodais0.1.0.pbix
-## analise de dados aberto por meio de dashboard
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Analise
 
 foram coletados dados relativos de empresas multimodas certificadas pela ANTT. Para construção do dashboard foram usado linguagem DAX e construção de visualizações
 Analise feitas:
