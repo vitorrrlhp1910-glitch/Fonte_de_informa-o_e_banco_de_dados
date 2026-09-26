@@ -2,7 +2,7 @@
 Atividades desenvolvidas durante o primeiro semestre da faculdade de GPI Fatec
 
 Índice 
-* [analise de dados aberto por meio de dashboard] (#analise-de-dados-aberto-por-meio-de-dashboard)
+
 * [Analise](#AnalisepowerBI)
 * [Analise](#Analiseexcel)
 https://github.com/vitorrrlhp1910-glitch/Fonte_de_informa-o_e_banco_de_dados/blob/main/empresasmultimodais0.1.0.pbix
